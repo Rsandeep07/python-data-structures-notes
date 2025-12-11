@@ -53,8 +53,10 @@ git clone https://github.com/Rsandeep07/python-data-structures-notes-batch-406
 
 ## Repository Structure
 
+```text
 python-data-structures-notes-batch-406/
 │
 ├── 03-Python-Data-Structures-Batch-406.html   # Main notes (open in browser)
 │
-└── README.md            
+└── README.md
+```        
